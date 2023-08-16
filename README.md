@@ -45,7 +45,23 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 
+
+<br>
+
 ## :shield:  Badges 
+
+<html>
+<div>
+  <a href="https://www.credly.com/badges/efe3dcda-f7ce-4336-83ae-9f0a28322d2e/public_url">
+         <img src="https://github.com/Rjwagh2001/Rjwagh2001/blob/main/microsoft-certified-azure-data-fundamentals.png" width="150 px" height = "150px" >
+      </a> 
+   
+  </div>
+</html>
+
+
+
+<!-- ## :shield:  Badges 
 
 <html>
 <div>
@@ -55,4 +71,4 @@
      </a>
    
   </div>
-</html>
+ </html> -->
