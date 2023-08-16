@@ -43,9 +43,10 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
-
-
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-Narkhede&hide=TeX&layout=compact)
+
 
 ## :shield:  Badges 
 
