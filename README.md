@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <html>
 <div align="center">
    <h1>Hello!  I'm Rahul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <h3 align="center">Coding💻| Web-Development👨🏻‍💻 | React | Problem Solving</h3>
+   <h3 align="center">Coding💻| Web-Development👨🏻‍💻 | React👾 | Problem Solving</h3>
 </div>
 </html>
 
